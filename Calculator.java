@@ -9,11 +9,16 @@ public class Calculator {
 int y;
 double f;
 int h=0;
-int h=3;
+int u;
+<<<<<<< HEAD
+
+=======
+>>>>>>> master
 	public int sum(int x, int y) {
 	     System.out.println("method-1");
 	     return x + y;
 	  }
+
 	  
 	  public float sum(float x, float y) {
 	     System.out.println("method-2");
