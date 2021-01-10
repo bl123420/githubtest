@@ -5,6 +5,8 @@ package module09_11;
  */
 public class Calculator {
 	
+        int x;
+int y;
 	public int sum(int x, int y) {
 	     System.out.println("method-1");
 	     return x + y;
